@@ -1,3 +1,9 @@
+
 def square_array(array)
-  # your code here
+  counter = 0 
+  while array.length > counter do 
+    p "hi"
+  end  
+# num * num
 end
+  
