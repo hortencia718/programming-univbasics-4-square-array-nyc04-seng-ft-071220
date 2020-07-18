@@ -2,11 +2,12 @@
 def square_array(array)
   # while array.length is greater (3) than counter 
   counter = 0 
+  new_numbers =[]
   while array.length > counter do 
-    # p "hi"
       counter += 1 
+      
   end 
-  p "hi"
+  return new_numbers
 # num * num
 end
   
